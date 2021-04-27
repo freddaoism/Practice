@@ -1,0 +1,26 @@
+* {
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+}
+
+html {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(236, 205, 157),
+    rgb(159, 153, 212)
+  );
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+}
+
+div {
+  font-weight: 400;
+}
+
+img {
+  max-height: 50%;
+  max-width: 50%;
+  border: 3px solid rgb(34, 34, 34);
+  border-radius: 6px;
+  padding: 5px;
+}
